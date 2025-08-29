@@ -22,6 +22,7 @@
   <img align="center" alt="MicrosoftExcel" height="40" width="40" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
   <img align="center" alt="MicrosoftPowerBI" height="40" width="40" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
   <img align="center" alt="Klotin" width="40" height="40" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
+  <img align="center" alt="CSharp" width="40" height="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
 
 </div>
  
